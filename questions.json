@@ -1,0 +1,1431 @@
+[
+    {
+      "question": "Welche Aussage über die Gleichgewichtsmenge und den Gleichgewichtspreis in der Grafik Anlage 1 trifft zu?",
+      "options": {
+        "A": "Die Gleichgewichtsmenge beträgt 30 Stück, der Gleichgewichtspreis 30,00 €.",
+        "B": "Der Absatz zum Gleichgewichtspreis beträgt 2.500 Stück.",
+        "C": "Der Absatz zum Gleichgewichtspreis beträgt 50 Stück.",
+        "D": "Die Gleichgewichtsmenge beträgt 20 Stück, der Gleichgewichtspreis 50,00 €.",
+        "E": "Die Gleichgewichtsmenge beträgt 40 Stück, der Gleichgewichtspreis 30,00 €."
+      },
+      "correct": "E"
+    },
+    {
+      "question": "Was erzielt ein Anbieter, der einen höheren Preis erzielt, als er kalkuliert hat?",
+      "options": {
+        "A": "Marktgleichgewicht",
+        "B": "Produzentenrente",
+        "C": "Konsumentenrente",
+        "D": "Produzentendividende",
+        "E": "Konsumentendividende"
+      },
+      "correct": "B"
+    },
+    {
+      "question": "Welche Aussage trifft auf ein Sättigungsgut zu?",
+      "options": {
+        "A": "Bei Sättigungsgütern wird die Nachfrage von der Konsumsumme nicht beeinflusst.",
+        "B": "Ein Steigen der Konsumsumme führt zum Sinken der Nachfrage.",
+        "C": "Die Konsumsumme beeinflusst nur das Angebot.",
+        "D": "Ein Steigen der Konsumsumme führt zum Anstieg der Nachfrage.",
+        "E": "Ein Sinken der Konsumsumme führt zum Anstieg der Nachfrage."
+      },
+      "correct": "A"
+    },
+    {
+      "question": "Welche Marktform ist gegeben, wenn wenige Kunsthändler sehr teure und seltene Kunstgegenstände wenigen Nachfragern anbieten?",
+      "options": {
+        "A": "Zweiseitiges Oligopol",
+        "B": "Nachfragemonopol",
+        "C": "Angebotsoligopol",
+        "D": "Angebotsmonopol",
+        "E": "Polypol"
+      },
+      "correct": "A"
+    },
+    {
+      "question": "Wie hoch ist der Angebotsüberhang bei einem Preis von 70,00 €?",
+      "options": {
+        "A": "20 Stück",
+        "B": "40 Stück",
+        "C": "5 Stück",
+        "D": "10 Stück",
+        "E": "30 Stück"
+      },
+      "correct": "B"
+    },
+    {
+      "question": "In welcher gesamtwirtschaftlichen Lage werden Unternehmer am ehesten ihr Angebot erweitern?",
+      "options": {
+        "A": "Bei hohem Zinsniveau und zunehmender Nachfrage",
+        "B": "Bei niedrigem Zinsniveau und zunehmender Nachfrage",
+        "C": "Bei hohem Zinsniveau und sinkender Konsumsumme der Haushalte",
+        "D": "Bei niedrigem Zinsniveau und abnehmender Nachfrage",
+        "E": "Bei hohem Zinsniveau und abnehmender Nachfrage"
+      },
+      "correct": "B"
+    },
+    {
+      "question": "Was erzielt ein Nachfrager, der auch zu einem höheren Preis als dem Gleichgewichtspreis gekauft hätte?",
+      "options": {
+        "A": "Konsumentenrente",
+        "B": "Produzentendividende",
+        "C": "Konsumentendividende",
+        "D": "Marktgleichgewicht",
+        "E": "Produzentenrente"
+      },
+      "correct": "A"
+    },
+    {
+      "question": "Welche Bedingung des unvollkommenen Marktes beschreibt die Händlerbindung?",
+      "options": {
+        "A": "räumliche Präferenz",
+        "B": "fehlende Markttransparenz",
+        "C": "Vielfalt der Güter",
+        "D": "zeitliche Präferenz",
+        "E": "persönliche Präferenz"
+      },
+      "correct": "E"
+    },
+    {
+      "question": "In welchem Fall sinkt der Gleichgewichtspreis bei vollkommenem Wettbewerb?",
+      "options": {
+        "A": "Wenn das Angebot sinkt und die Nachfrage steigt.",
+        "B": "Wenn das Angebot bei unveränderter Nachfrage sinkt.",
+        "C": "Wenn das Angebot sinkt.",
+        "C2": "Wenn das Angebot bei unveränderter Nachfrage steigt.",
+        "E": "Wenn die Nachfrage bei unverändertem Angebot steigt."
+      },
+      "correct": "C2"
+    },
+    {
+      "question": "Welche Funktion des Marktpreises wird beschrieben (Ausschluss nicht konkurrenzfähiger Anbieter)?",
+      "options": {
+        "A": "Steuerungsfunktion",
+        "B": "Anreizfunktion",
+        "C": "Signalfunktion",
+        "D": "Verteilungsfunktion",
+        "E": "Ausschaltungsfunktion"
+      },
+      "correct": "D"
+    },
+    {
+      "question": "Mode steigt und Produktionskosten steigen – was passiert mit dem Gleichgewichtspreis?",
+      "options": {
+        "A": "nicht vorhersagbar",
+        "B": "kein Einfluss",
+        "C": "sinkt",
+        "D": "steigt",
+        "E": "kein Einfluss der Mode"
+      },
+      "correct": "D"
+    },
+    {
+      "question": "Welche Aussage lässt sich aus der Grafik im dritten Quartal ableiten?",
+      "options": {
+        "A": "Die Nachfrage ist gesunken.",
+        "B": "Das Angebot wurde vergrößert.",
+        "C": "Komplementärgüter beeinflussten die Nachfrage.",
+        "D": "Kein Gleichgewichtspreis erreicht.",
+        "E": "Werbung wurde eingeschränkt."
+      },
+      "correct": "A"
+    },
+    {
+      "question": "Welche Bedingung beschreibt das späte Einkaufen kurz vor Schluss?",
+      "options": {
+        "A": "zeitliche Präferenz",
+        "B": "Vielfalt der Güter",
+        "C": "fehlende Markttransparenz",
+        "D": "räumliche Präferenz",
+        "E": "persönliche Präferenz"
+      },
+      "correct": "A"
+    },
+    {
+      "question": "Produzentenrente pro Stück bei 30 Stück und 30,00 € Preis?",
+      "options": {
+        "A": "30,00 €",
+        "B": "40,00 €",
+        "C": "20,00 €",
+        "D": "50,00 €",
+        "E": "10,00 €"
+      },
+      "correct": "C"
+    },
+    {
+      "question": "Welche Aussage zur angebotenen Menge trifft zu?",
+      "options": {
+        "A": "Je höher die Menge, desto niedriger der Preis.",
+        "B": "Kein Einfluss des Preises.",
+        "C": "Je niedriger die Menge, desto höher der Preis.",
+        "D": "Je höher der Preis, desto höher das Angebot.",
+        "E": "Je höher der Preis, desto niedriger das Angebot."
+      },
+      "correct": "D"
+    },
+    {
+      "question": "Apfelmarkt: 1750 kg Angebot, 1250 kg Nachfrage – was gilt?",
+      "options": {
+        "A": "Nachfrageüberhang 500 kg",
+        "B": "Angebotsüberhang 500 kg",
+        "C": "Absatz 1750 kg",
+        "D": "Gleichgewichtsmenge 750 kg",
+        "E": "Umsatz 1250 €"
+      },
+      "correct": "B"
+    },
+    {
+      "question": "Welche Bedingung gilt für den vollkommenen Markt?",
+      "options": {
+        "A": "fehlende Transparenz für Nachfrager",
+        "B": "Verschiedenartigkeit der Güter",
+        "C": "fehlende Transparenz für Anbieter",
+        "D": "persönliche Präferenzen",
+        "E": "Homogenität der Güter"
+      },
+      "correct": "E"
+    },
+    {
+      "question": "Umsatz zum Gleichgewichtspreis?",
+      "options": {
+        "A": "2500 €",
+        "B": "2.500 €"
+      },
+      "correct": "B"
+    },
+    {
+      "question": "Viele Bauern liefern an eine Zuckerfabrik – welche Marktform?",
+      "options": {
+        "A": "Angebotsoligopol",
+        "B": "Polypol",
+        "C": "Nachfragemonopol",
+        "D": "Zweiseitiges Oligopol",
+        "E": "Angebotsmonopol"
+      },
+      "correct": "B"
+    },
+    {
+      "question": "Welche Marktform ist vollkommene Konkurrenz?",
+      "options": {
+        "A": "Angebotsoligopol",
+        "B": "Polypol",
+        "C": "Zweiseitiges Oligopol",
+        "D": "Nachfragemonopol",
+        "E": "Angebotsmonopol"
+      },
+      "correct": "B"
+    },
+    {
+      "question": "Was passiert bei steigenden Preisen eines Substitutionsgutes?",
+      "options": {
+        "A": "Nur Komplementärgüter beeinflussen Nachfrage.",
+        "B": "Nachfrage steigt.",
+        "C": "Kein Einfluss.",
+        "D": "Nur indifferente Güter relevant.",
+        "E": "Nachfrage sinkt."
+      },
+      "correct": "B"
+    },
+    {
+      "question": "Wann steigt der Gleichgewichtspreis?",
+      "options": {
+        "A": "Nachfrage sinkt.",
+        "B": "Angebot steigt.",
+        "C": "Angebot steigt bei unveränderter Nachfrage.",
+        "D": "Angebot steigt und Nachfrage sinkt.",
+        "E": "Angebot sinkt bei unveränderter Nachfrage."
+      },
+      "correct": "E"
+    },
+{
+"question": "Was ist ein Faktormarkt?",
+"options": {
+"A": "Markt für Konsumgüter",
+"B": "Markt für Produktionsfaktoren wie Arbeit und Kapital",
+"C": "Markt für Luxusgüter",
+"D": "Markt nur für staatliche Güter"
+},
+"correct": "B"
+},
+{
+"question": "Welche Eigenschaft gehört zum vollkommenen Markt?",
+"options": {
+"A": "Persönliche Präferenzen",
+"B": "Inhomogene Güter",
+"C": "Vollkommene Markttransparenz",
+"D": "Preisabsprachen"
+},
+"correct": "C"
+},
+{
+"question": "Was ist ein Polypol?",
+"options": {
+"A": "Ein Anbieter dominiert den Markt",
+"B": "Wenige Anbieter haben Marktmacht",
+"C": "Viele Anbieter konkurrieren miteinander",
+"D": "Nur zwei Anbieter bestimmen den Preis"
+},
+"correct": "C"
+},
+{
+"question": "Was beschreibt ein Monopol?",
+"options": {
+"A": "Viele Anbieter",
+"B": "Ein Anbieter beherrscht den Markt",
+"C": "Zwei Anbieter teilen sich den Markt",
+"D": "Keine Nachfrage vorhanden"
+},
+"correct": "B"
+},
+{
+"question": "Was ist ein typisches Merkmal eines Oligopols?",
+"options": {
+"A": "Viele kleine Anbieter",
+"B": "Ein Anbieter",
+"C": "Wenige Anbieter mit großer Marktmacht",
+"D": "Kein Wettbewerb"
+},
+"correct": "C"
+},
+{
+"question": "Was verbietet das Kartellverbot?",
+"options": {
+"A": "Preissenkungen",
+"B": "Zusammenschlüsse von kleinen Firmen",
+"C": "Absprachen zwischen Unternehmen zur Wettbewerbsverzerrung",
+"D": "Werbung"
+},
+"correct": "C"
+},
+{
+"question": "Welche Funktion hat der Marktpreis NICHT?",
+"options": {
+"A": "Lenkungsfunktion",
+"B": "Informationsfunktion",
+"C": "Ausgleichsfunktion",
+"D": "Produktionsfunktion"
+},
+"correct": "D"
+},
+{
+"question": "Welche Aussage beschreibt die Nachfrage?",
+"options": {
+"A": "Unternehmen produzieren mehr bei hohen Preisen",
+"B": "Verbraucher kaufen mehr bei niedrigeren Preisen",
+"C": "Angebot steigt automatisch",
+"D": "Preise bleiben immer gleich"
+},
+"correct": "B"
+},
+{
+"question": "Was passiert bei einer Verschiebung der Nachfragekurve nach rechts?",
+"options": {
+"A": "Nachfrage sinkt",
+"B": "Nachfrage steigt",
+"C": "Angebot sinkt",
+"D": "Preis wird irrelevant"
+},
+"correct": "B"
+},
+{
+"question": "Was passiert bei einem Angebotsüberhang?",
+"options": {
+"A": "Nachfrage > Angebot",
+"B": "Angebot = Nachfrage",
+"C": "Angebot > Nachfrage",
+"D": "Preis steigt automatisch"
+},
+"correct": "C"
+},
+{
+"question": "Was ist eine Produzentenrente?",
+"options": {
+"A": "Differenz zwischen Marktpreis und Mindestpreis der Anbieter",
+"B": "Staatliche Subvention",
+"C": "Steuer auf Gewinne",
+"D": "Preisuntergrenze"
+},
+"correct": "A"
+},
+{
+"question": "Was ist eine Konsumentenrente?",
+"options": {
+"A": "Differenz zwischen Zahlungsbereitschaft und Marktpreis",
+"B": "Steuer auf Konsum",
+"C": "Gewinn der Unternehmen",
+"D": "Produktionskosten"
+},
+"correct": "A"
+},
+{
+"question": "Was ist ein marktkonformer Eingriff?",
+"options": {
+"A": "Mindestpreis",
+"B": "Höchstpreis",
+"C": "Subventionen",
+"D": "Preisstopp"
+},
+"correct": "C"
+},
+{
+"question": "Was ist ein marktkonträrer Eingriff?",
+"options": {
+"A": "Subvention",
+"B": "Mindest- oder Höchstpreis",
+"C": "Steuer",
+"D": "Werbung"
+},
+"correct": "B"
+},
+{
+"question": "Was passiert bei einem Nachfrageüberhang?",
+"options": {
+"A": "Angebot > Nachfrage",
+"B": "Nachfrage > Angebot",
+"C": "Preis sinkt automatisch",
+"D": "Markt verschwindet"
+},
+"correct": "B"
+},
+{
+"question": "Welche Marktform hat die geringste Marktmacht?",
+"options": {
+"A": "Monopol",
+"B": "Oligopol",
+"C": "Polypol",
+"D": "Kartell"
+},
+"correct": "C"
+},
+{
+"question": "Was ist Preisführung im Oligopol?",
+"options": {
+"A": "Alle Firmen setzen zufällige Preise",
+"B": "Eine Firma bestimmt den Preis, andere folgen",
+"C": "Staat bestimmt Preise",
+"D": "Preise werden verboten"
+},
+"correct": "B"
+},
+{
+"question": "Was ist ein Bestimmungsfaktor der Nachfrage?",
+"options": {
+"A": "Produktionskosten",
+"B": "Einkommen der Konsumenten",
+"C": "Maschinenpreise",
+"D": "Zölle auf Angebot"
+},
+"correct": "B"
+},
+{
+"question": "Was führt typischerweise zu einer Verschiebung der Angebotskurve nach rechts?",
+"options": {
+"A": "Höhere Produktionskosten",
+"B": "Geringere Produktivität",
+"C": "Technischer Fortschritt",
+"D": "Höhere Steuern"
+},
+"correct": "C"
+},
+{
+"question": "Was passiert im Marktgleichgewicht?",
+"options": {
+"A": "Nachfrage = Angebot",
+"B": "Nachfrage > Angebot",
+"C": "Angebot > Nachfrage",
+"D": "Kein Handel"
+},
+"correct": "A"
+} ,
+{
+"question": "Was bedeutet der Begriff 'Markt' laut Grafik?",
+"options": {
+"A": "Zusammentreffen von Angebot und Nachfrage",
+"B": "Nur Verkauf von Gütern",
+"C": "Staatliche Preisfestsetzung",
+"D": "Produktion von Gütern"
+},
+"correct": "A"
+},
+{
+"question": "Welche gehören zu den Faktormärkten?",
+"options": {
+"A": "Konsumgütermarkt und Anlagegüter",
+"B": "Arbeitsmarkt, Immobilienmarkt, Kapital- und Geldmarkt",
+"C": "Nur Konsumgüter",
+"D": "Nur staatliche Märkte"
+},
+"correct": "B"
+},
+{
+"question": "Welche gehören zu den Gütermärkten?",
+"options": {
+"A": "Arbeitsmarkt und Kapitalmarkt",
+"B": "Immobilienmarkt und Geldmarkt",
+"C": "Konsumgütermarkt, Investitionsgütermarkt, Anlagegüter",
+"D": "Nur Arbeitsmarkt"
+},
+"correct": "C"
+},
+{
+"question": "Was beschreibt ein vollkommener Markt als Modell?",
+"options": {
+"A": "Viele staatliche Eingriffe",
+"B": "Keine Konkurrenz",
+"C": "Idealer Markt mit bestimmten Bedingungen",
+"D": "Monopolstruktur"
+},
+"correct": "C"
+},
+{
+"question": "Welche Bedingung gehört NICHT zum vollkommenen Markt?",
+"options": {
+"A": "Homogene Güter",
+"B": "Fehlen von Präferenzen",
+"C": "Vollkommene Markttransparenz",
+"D": "Preisabsprachen zwischen Unternehmen"
+},
+"correct": "D"
+},
+{
+"question": "Was bedeutet 'Homogenität der Güter'?",
+"options": {
+"A": "Güter sind völlig unterschiedlich",
+"B": "Güter sind gleichartig und austauschbar",
+"C": "Nur Luxusgüter werden angeboten",
+"D": "Güter sind staatlich festgelegt"
+},
+"correct": "B"
+},
+{
+"question": "Was bedeutet 'Markttransparenz' im vollkommenen Markt?",
+"options": {
+"A": "Nur Anbieter kennen Preise",
+"B": "Nur Nachfrager kennen Preise",
+"C": "Marktübersicht für Anbieter und Nachfrager",
+"D": "Keine Informationen am Markt"
+},
+"correct": "C"
+},
+{
+"question": "Wann entsteht ein unvollkommener Markt?",
+"options": {
+"A": "Wenn alle Bedingungen erfüllt sind",
+"B": "Wenn eine oder mehrere Bedingungen fehlen",
+"C": "Wenn nur ein Anbieter existiert",
+"D": "Wenn der Staat den Markt vollständig kontrolliert"
+},
+"correct": "B"
+},
+{
+"question": "Was kennzeichnet eine freie Marktwirtschaft?",
+"options": {
+"A": "Staat bestimmt alle Preise",
+"B": "Lenkung der Wirtschaft über den Markt, Staat setzt nur Rahmenbedingungen",
+"C": "Kein Wettbewerb",
+"D": "Nur staatliche Unternehmen"
+},
+"correct": "B"
+},
+{
+"question": "Was ist typisch für eine soziale Marktwirtschaft?",
+"options": {
+"A": "Reiner Staatseingriff ohne Markt",
+"B": "Keine soziale Absicherung",
+"C": "Marktwirtschaft mit sozialen Korrekturen",
+"D": "Nur freie Preisbildung ohne Regeln"
+},
+"correct": "C"
+},
+{
+"question": "Welche Aussage gehört zum Fehlen von Präferenzen im vollkommenen Markt?",
+"options": {
+"A": "Kunden bevorzugen bestimmte Anbieter",
+"B": "Es gibt persönliche, räumliche oder zeitliche Präferenzen",
+"C": "Keine persönlichen, räumlichen oder zeitlichen Präferenzen",
+"D": "Nur Markenprodukte werden gekauft"
+},
+"correct": "C"
+},
+{
+"question": "Was passiert, wenn Markttransparenz gegeben ist?",
+"options": {
+"A": "Keine Informationen verfügbar",
+"B": "Nur Preise sind bekannt",
+"C": "Alle Marktteilnehmer haben Überblick über Preise und Angebote",
+"D": "Nur der Staat kennt alle Daten"
+},
+"correct": "C"
+},
+  {
+    "question": "Welche der folgenden Maßnahmen stellt einen marktkonformen (indirekten) Eingriff des Staates in die Preisbildung dar?",
+    "options": {
+      "A": "Die gesetzliche Festlegung einer Obergrenze für die Quadratmetermiete",
+      "B": "Die Auszahlung von staatlichen Subventionen an Unternehmen",
+      "C": "Das Verbot, bestimmte Güter unter einem Mindestpreis zu verkaufen",
+      "D": "Die behördliche Festsetzung von Festpreisen für Grundnahrungsmittel"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Warum führt ein staatlich festgesetzter Höchstpreis auf dem Wohnungsmarkt häufig zu einem Sinken des Wohnungsangebots?",
+    "options": {
+      "A": "Weil die Nachfrage nach Wohnungen durch die günstigeren Mieten drastisch zurückgeht",
+      "B": "Weil der Staat den Vermietern verbietet, leerstehende Wohnungen neu zu vermieten",
+      "C": "Weil der Mieterlös für manche Vermieter die laufenden Betriebs- und Instandhaltungskosten nicht mehr deckt",
+      "D": "Weil Investoren gesetzlich dazu verpflichtet werden, nur noch Luxusimmobilien zu bauen"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Marktsituation entsteht in der Regel als direkte Folge eines staatlich verordneten Höchstpreises, der unter dem Gleichgewichtspreis liegt?",
+    "options": {
+      "A": "Ein Angebotsüberhang, da die Anbieter mehr Güter auf den Markt bringen wollen",
+      "B": "Ein Nachfrageüberhang, da die angebotene Menge sinkt, während die nachgefragte Menge steigt",
+      "C": "Ein neues, stabile Marktgleichgewicht auf einem niedrigeren Preisniveau",
+      "D": "Eine sofortige Schließung aller Schwarzmärkte aufgrund der fairen Preise"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Warum gelten Transferleistungen wie das Wohngeld im Gegensatz zu Höchstmieten als marktkonform?",
+    "options": {
+      "A": "Weil sie den Preismechanismus des Marktes nicht außer Kraft setzen, sondern lediglich die Nachfrage- oder Angebotskurve verschieben",
+      "B": "Weil sie die Vermieter dazu zwingen, die Mieten für alle Bürger sofort zu senken",
+      "C": "Weil sie direkt vom Staat durch die Festlegung von Höchstpreisen finanziert werden",
+      "D": "Weil sie einen dauerhaften Angebotsüberhang auf dem Wohnungsmarkt erzwingen"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Welche der folgenden Maßnahmen stellt einen marktkonformen (indirekten) Eingriff des Staates in die Preisbildung dar?",
+    "options": {
+      "A": "Die gesetzliche Festlegung einer Obergrenze für die Quadratmetermiete",
+      "B": "Die Auszahlung von staatlichen Subventionen an Unternehmen",
+      "C": "Das Verbot, bestimmte Güter unter einem Mindestpreis zu verkaufen",
+      "D": "Die behördliche Festsetzung von Festpreisen für Grundnahrungsmittel"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Warum führt ein staatlich festgesetzter Höchstpreis auf dem Wohnungsmarkt häufig zu einem Sinken des Wohnungsangebots?",
+    "options": {
+      "A": "Weil die Nachfrage nach Wohnungen durch die günstigeren Mieten drastisch zurückgeht",
+      "B": "Weil der Staat den Vermietern verbietet, leerstehende Wohnungen neu zu vermieten",
+      "C": "Weil der Mieterlös für manche Vermieter die laufenden Betriebs- und Instandhaltungskosten nicht mehr deckt",
+      "D": "Weil Investoren gesetzlich dazu verpflichtet werden, nur noch Luxusimmobilien zu bauen"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Marktsituation entsteht in der Regel als direkte Folge eines staatlich verordneten Höchstpreises, der unter dem Gleichgewichtspreis liegt?",
+    "options": {
+      "A": "Ein Angebotsüberhang, da die Anbieter mehr Güter auf den Markt bringen wollen",
+      "B": "Ein Nachfrageüberhang, da die angebotene Menge sinkt, während die nachgefragte Menge steigt",
+      "C": "Ein neues, stabiles Marktgleichgewicht auf einem niedrigeren Preisniveau",
+      "D": "Eine sofortige Schließung aller Schwarzmärkte aufgrund der fairen Preise"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Warum gelten Transferleistungen wie das Wohngeld im Gegensatz zu Höchstmieten als marktkonform?",
+    "options": {
+      "A": "Weil sie den Preismechanismus des Marktes nicht außer Kraft setzen, sondern lediglich die Nachfrage- oder Angebotskurve verschieben",
+      "B": "Weil sie die Vermieter dazu zwingen, die Mieten für alle Bürger sofort zu senken",
+      "C": "Weil sie direkt vom Staat durch die Festlegung von Höchstpreisen finanziert werden",
+      "D": "Weil sie einen dauerhaften Angebotsüberhang auf dem Wohnungsmarkt erzwingen"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Welches primäre Ziel verfolgt der Staat mit der Festlegung von Mindestpreisen auf einem Markt?",
+    "options": {
+      "A": "Den Schutz der Nachfrager vor überhöhten und unfairen Preisen",
+      "B": "Die Erhöhung der staatlichen Steuereinnahmen durch den Konsum",
+      "C": "Den Schutz der Anbieter vor einem ruinösen Preisverfall",
+      "D": "Die vollständige Abschaffung von staatlichen Subventionen"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Marktsituation entsteht im Normalfall, wenn ein staatlicher Mindestpreis über dem Gleichgewichtspreis festgesetzt wird?",
+    "options": {
+      "A": "Ein Angebotsüberhang (Nachfragelücke), da Anbieter mehr verkaufen wollen, aber Nachfrager zu diesem Preis weniger kaufen",
+      "B": "Ein Nachfrageüberhang (Angebotslücke), da die Nachfrage durch den hohen Preis stark angekurbelt wird",
+      "C": "Eine automatische Räumung des Marktes, da sich ein neues natürliches Gleichgewicht bildet",
+      "D": "Ein akuter Mangel an Gütern, da die Produzenten ihre Produktion sofort einstellen"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was unterscheidet marktkonträre (direkte) Eingriffe fundamental von marktkonformen Eingriffen?",
+    "options": {
+      "A": "Marktkonträre Eingriffe verändern ausschließlich die Steuersätze des Landes",
+      "B": "Marktkonträre Eingriffe setzen den Preismechanismus außer Kraft und erzwingen einen politischen Preis",
+      "C": "Marktkonträre Eingriffe sind immer mit dem Preismechanismus des Marktes vereinbar",
+      "D": "Marktkonträre Eingriffe führen lediglich zu einer Verschiebung der Angebotskurve"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welche historischen Begleiterscheinungen traten laut Infotext fast immer bei der Einführung von Höchstpreisen auf?",
+    "options": {
+      "A": "Eine massive Überproduktion an Gütern und die Schließung aller Schwarzmärkte",
+      "B": "Die Entstehung von Warteschlangen, Schwarzmärkten und primitiven Tauschgeschäften",
+      "C": "Ein starker Anstieg der Produktqualität und ein Sinken der Staatsverschuldung",
+      "D": "Eine freiwillige Senkung der Preise durch alle Anbieter unter das gesetzliche Limit"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welches Instrument gehört laut Infotext zu den marktkonformen Eingriffen des Staates?",
+    "options": {
+      "A": "Die gesetzliche Festlegung von Mindestlöhnen für Arbeiter",
+      "B": "Das Festlegen von staatlichen Höchstgrenzen für Agrarprodukte",
+      "C": "Das Erhöhen oder Senken der eigenen Staatsnachfrage nach Gütern und Dienstleistungen",
+      "D": "Die behördliche Preiskontrolle im Einzelhandel"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche finanzielle Auswirkung wird in Aufgabe 3 im Zusammenhang mit hohen Staatsausgaben für Transferleistungen genannt?",
+    "options": {
+      "A": "Sie führen tendenziell zu einer Erhöhung der Staatsverschuldung",
+      "B": "Sie senken die Notwendigkeit, Steuereinnahmen zu generieren",
+      "C": "Sie führen zu einer sofortigen Entlastung des Staatshaushaltes",
+      "D": "Sie verhindern die Entstehung von Nachfrageüberhängen vollständig"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Wie verändert sich die Nachfrage nach superioren Gütern, wenn das Einkommen der privaten Haushalte steigt?",
+    "options": {
+      "A": "Die Nachfrage steigt",
+      "B": "Die Nachfrage sinkt",
+      "C": "Die Nachfrage bleibt völlig unverändert",
+      "D": "Die Nachfrage bricht komplett ein"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was versteht man unter einem inferioren Gut?",
+    "options": {
+      "A": "Ein Gut, dessen Nachfrage bei steigendem Einkommen sinkt",
+      "B": "Ein Gut, das bei jedem Einkommen absolut unverzichtbar ist",
+      "C": "Ein Gut, dessen Nachfrage proportional zum Einkommensanstieg wächst",
+      "D": "Ein Gut, das auf dem Markt nicht mehr legal gehandelt werden darf"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Welches der folgenden Güter verhält sich im Bezug auf das Einkommen am ehesten wie ein Sättigungsgut?",
+    "options": {
+      "A": "Ein Sportwagen",
+      "B": "Sehr billige No-Name-Margarine",
+      "C": "Speisesalz",
+      "D": "Ein Luxusurlaub"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Wie reagiert die nachgefragte Menge eines Sättigungsgutes, wenn das Einkommen der Verbraucher sinkt?",
+    "options": {
+      "A": "Sie steigt drastisch an",
+      "B": "Sie bleibt im Wesentlichen unverändert",
+      "C": "Sie fällt sofort auf null",
+      "D": "Sie verdoppelt sich"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Warum betrachten Ökonomen manche Güter als 'höherwertig' (superior)?",
+    "options": {
+      "A": "Weil die Nachfrage nach ihnen ansteigt, sobald den Konsumenten mehr Einkommen zur Verfügung steht",
+      "B": "Weil sie gesetzlich staatlich geprüft und zertifiziert sein müssen",
+      "C": "Weil sie ausschließlich von wohlhabenden Menschen gekauft werden können",
+      "D": "Weil sie niemals an Wert verlieren können"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was charakterisiert den Snob-Effekt beim Nachfrageverhalten?",
+    "options": {
+      "A": "Die Nachfrage steigt, weil das Produkt von der breiten Masse gekauft wird",
+      "B": "Konsumenten kaufen ein Gut erst ab einem bestimmten, hohen Preis, um sich durch Exklusivität von anderen abzuheben",
+      "C": "Die Nachfrage sinkt drastisch, sobald der Preis des Produktes leicht angehoben wird",
+      "D": "Kunden kaufen das Produkt nur, wenn es im Angebot oder besonders billig ist"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welches Verhalten beschreibt den Mitläufer-Effekt?",
+    "options": {
+      "A": "Die Nachfrage nach einem Produkt steigt, weil es im Trend liegt oder von vielen anderen genutzt wird",
+      "B": "Die Nachfrage sinkt, sobald das Produkt in den sozialen Medien auftaucht",
+      "C": "Konsumenten meiden Produkte, die von Jugendlichen zur Zugehörigkeit genutzt werden",
+      "D": "Ein Gut wird nur dann gekauft, wenn der Preis ein Signal für mindere Qualität ist"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was besagt der Qualitätsvermutungseffekt bei gleichartigen Gütern?",
+    "options": {
+      "A": "Kunden gehen davon aus, dass billigere Produkte immer eine längere Lebensdauer haben",
+      "B": "Der Preis hat für die Konsumenten keinerlei Aussagekraft über die Beschaffenheit der Ware",
+      "C": "Konsumenten nehmen an: Je höher der Preis eines Gutes ist, desto besser ist auch dessen Qualität",
+      "D": "Markenprodukte werden grundsätzlich als minderwertig gegenüber No-Name-Produkten eingestuft"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welches klassische Beispiel beschreibt den Giffen-Effekt bei Haushalten mit geringem Einkommen?",
+    "options": {
+      "A": "Wenn der Preis für Luxusuhren steigt, kaufen wohlhabende Haushalte noch mehr davon",
+      "B": "Wenn der Brotpreis steigt, verzichten Haushalte auf teureres Fleisch und kaufen stattdessen noch mehr Brot",
+      "C": "Wenn die Einkommen steigen, wird komplett auf den Konsum von Grundnahrungsmitteln verzichtet",
+      "D": "Wenn die Preise für Waschmaschinen sinken, vermuten die Kunden eine schlechte Qualität und meiden sie"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Bei welchem der folgenden Effekte steigt die Nachfrage nach einem Gut trotz steigenden Preises primär aus Gründen der sozialen Abgrenzung?",
+    "options": {
+      "A": "Giffen-Effekt",
+      "B": "Mitläufer-Effekt",
+      "C": "Qualitätsvermutungseffekt",
+      "D": "Snob-Effekt"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Was bedeutet Markt im wirtschaftlichen Sinne?",
+    "options": {
+      "A": "Ort, an dem nur wenige Anbietende auf viele Nachfragende treffen",
+      "B": "Ort, an dem nur Güter und Dienstleistungen gehandelt werden",
+      "C": "Ort, an dem Angebot und Nachfrage bezüglich bestimmter Güter aufeinandertreffen",
+      "D": "Ort, an dem Preise ausschließlich staatlich festgelegt werden"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Wie nennt man den Preis, zu dem die Ware die Besitzerin wechselt und Angebot und Nachfrage ausgleicht?",
+    "options": {
+      "A": "Nachfragepreis",
+      "B": "Gleichgewichtspreis",
+      "C": "Angebotspreis",
+      "D": "Höchstpreis"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Ein Beispiel für einen Faktormarkt ist:",
+    "options": {
+      "A": "der Arbeitsmarkt",
+      "B": "der Investitionsgütermarkt",
+      "C": "der Konsumgütermarkt",
+      "D": "der Lebensmittelmarkt"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bei welcher Marktform gibt es auf dem Markt nur einen Anbietenden, dem viele Nachfragende gegenüberstehen?",
+    "options": {
+      "A": "Nachfragemonopol",
+      "B": "Nachfrageoligopol",
+      "C": "Angebotsmonopol",
+      "D": "Polypol"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Der Preis bei einem Oligopol ist:",
+    "options": {
+      "A": "eher hoch",
+      "B": "eher niedrig",
+      "C": "weitgehend stabil",
+      "D": "völlig unvorhersehbar"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Was kennzeichnet ein Polypol?",
+    "options": {
+      "A": "ein geringes Maß an Wettbewerb",
+      "B": "ein hohes Maß an Wettbewerb",
+      "C": "ein Anbietender kann den Preis für ein Gut bestimmen",
+      "D": "die vollständige Abwesenheit von Nachfragenden"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "In welchem Fall liegt ein bilaterales Oligopol vor?",
+    "options": {
+      "A": "wenige Anbietende stehen vielen Nachfragenden gegenüber",
+      "B": "es gibt nur einen Anbietenden und einen Nachfragenden",
+      "C": "wenige Anbietende stehen wenigen Nachfragenden gegenüber",
+      "D": "viele Anbietende stehen vielen Nachfragenden gegenüber"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Zu welcher Marktform gehört das Beispiel Luxusautos?",
+    "options": {
+      "A": "Polypol",
+      "B": "bilaterales Oligopol",
+      "C": "beschränktes Angebotsmonopol",
+      "D": "Angebotsmonopol"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was kennzeichnet einen vollkommenen Markt unter anderem?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Preisunterschiede zwischen Herstellern",
+      "C": "keine Markttransparenz",
+      "D": "starke persönliche Präferenzen der Käufer"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Zu den Folgen einer Kartellbildung für Verbrauchende gehören:",
+    "options": {
+      "A": "Ankurbelung des Wettbewerbs",
+      "B": "steigende Produktqualität",
+      "C": "überhöhte Preise",
+      "D": "eine größere Produktauswahl"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Benzinmarkt Deutschlands?",
+    "options": {
+      "A": "Polypol",
+      "B": "Angebotsoligopol",
+      "C": "Nachfrageoligopol",
+      "D": "Angebotsmonopol"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Aktienhandel an der Berliner Wertpapierbörse?",
+    "options": {
+      "A": "Polypol",
+      "B": "Angebotsoligopol",
+      "C": "Nachfragemonopol",
+      "D": "Angebotsmonopol"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Trinkwasser liefert das Wasserwerk der Gemeinde?",
+    "options": {
+      "A": "Polypol",
+      "B": "Nachfrageoligopol",
+      "C": "Angebotsmonopol",
+      "D": "Nachfragemonopol"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Vielen Winzern eines Weinbaugebietes stehen wenige Kellereien gegenüber?",
+    "options": {
+      "A": "Polypol",
+      "B": "Angebotsoligopol",
+      "C": "Nachfrageoligopol",
+      "D": "Angebotsmonopol"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: U-Boote und Kriegsschiffe werden innerhalb Deutschlands nur von der Deutschen Marine gekauft?",
+    "options": {
+      "A": "Angebotsoligopol",
+      "B": "Angebotsmonopol",
+      "C": "Polypol",
+      "D": "Nachfragemonopol"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Die patentierte Erfindung eines Unternehmers?",
+    "options": {
+      "A": "Polypol",
+      "B": "Angebotsmonopol",
+      "C": "Nachfrageoligopol",
+      "D": "Nachfragemonopol"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Wochenmarkt in Ihrer Heimatstadt?",
+    "options": {
+      "A": "Polypol",
+      "B": "Angebotsoligopol",
+      "C": "Angebotsmonopol",
+      "D": "Nachfragemonopol"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Kaffeemarkt in Deutschland?",
+    "options": {
+      "A": "Polypol",
+      "B": "Angebotsoligopol",
+      "C": "Nachfrageoligopol",
+      "D": "Angebotsmonopol"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Nur der Staat kauft Polizeiuniformen?",
+    "options": {
+      "A": "Angebotsoligopol",
+      "B": "Angebotsmonopol",
+      "C": "Nachfragemonopol",
+      "D": "Polypol"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Brotkäufer können unter vielen Bäckereien wählen?",
+    "options": {
+      "A": "Polypol",
+      "B": "Angebotsoligopol",
+      "C": "Nachfrageoligopol",
+      "D": "Angebotsmonopol"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Automarkt in Deutschland?",
+    "options": {
+      "A": "Polypol",
+      "B": "Angebotsoligopol",
+      "C": "Nachfrageoligopol",
+      "D": "Angebotsmonopol"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was versteht man unter dem Begriff Prohibitivpreis?",
+    "options": {
+      "A": "Der Preis, bei dem das Angebot am höchsten ist",
+      "B": "Der Preis, bei dem die Nachfrage vollständig zum Erliegen kommt",
+      "C": "Der ideale Gleichgewichtspreis im Polypol",
+      "D": "Der Mindestpreis, den ein Monopolist festlegt"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welches Merkmal ist typisch für ein Monopol?",
+    "options": {
+      "A": "Die Preisbildung erfolgt rein durch das freie Zusammenspiel von Angebot und Nachfrage",
+      "B": "Es gibt viele Anbieter und nur wenige Nachfrager",
+      "C": "Die Preisbildung wird allein vom Monopolisten bestimmt",
+      "D": "Der Marktzugang ist für neue Wettbewerber vollkommen offen"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Wie ist ein Angebotsoligopol auf der Marktseite strukturiert?",
+    "options": {
+      "A": "Ein Anbieter steht einem einzigen Nachfrager gegenüber",
+      "B": "Wenige Anbieter stehen vielen Nachfragenden gegenüber",
+      "C": "Viele Anbieter stehen wenigen Nachfragenden gegenüber",
+      "D": "Viele Anbieter stehen vielen Nachfragenden gegenüber"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was kennzeichnet den Marktzugang in einem Polypol?",
+    "options": {
+      "A": "Der Marktzugang ist offen",
+      "B": "Der Marktzugang ist geschlossen",
+      "C": "Der Marktzugang ist stark eingeschränkt",
+      "D": "Der Marktzugang ist extrem erschwert"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "In welcher Marktform wird der Preis weder von einem Einzelnen diktiert noch von einer kleinen Gruppe kontrolliert, sondern bildet sich frei durch Angebot und Nachfrage?",
+    "options": {
+      "A": "Monopol",
+      "B": "Angebotsoligopol",
+      "C": "Nachfrageoligopol",
+      "D": "Polypol"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Auf welchem Markt bestehen keine räumlichen und zeitlichen Präferenzen?",
+    "options": {
+      "A": "Kapitalmarkt",
+      "B": "Agrarmarkt",
+      "C": "Gebietsmarkt",
+      "D": "Punktmarkt"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Was wird auf dem Investitionsgütermarkt nachgefragt?",
+    "options": {
+      "A": "Private Geldanlagen in Form von Aktien",
+      "B": "Rohstoffe der Unternehmer",
+      "C": "Waschmaschinen der privaten Haushalte",
+      "D": "Grundstücke der Unternehmer"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Die Börse ist ein...",
+    "options": {
+      "A": "Punktmarkt",
+      "B": "Gebietsmarkt",
+      "C": "regulierter Markt",
+      "D": "heterogener Markt"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bei einem homogenen Markt sind die Marktgüter...",
+    "options": {
+      "A": "qualitätsbeständig",
+      "B": "preiswert",
+      "C": "gleichartig",
+      "D": "verschiedenartig"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Auf dem unvollkommenen Markt besteht in der Regel...",
+    "options": {
+      "A": "personelle Gleichartigkeit",
+      "B": "Markttransparenz",
+      "C": "Homogenität der Güter",
+      "D": "Heterogenität der Güter"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Wann liegt ein regulierter Markt vor?",
+    "options": {
+      "A": "Wenn das Marktgeschehen sich an der Börse abspielt",
+      "B": "Wenn das Marktgeschehen institutionalisiert ist",
+      "C": "Wenn sich das Marktgeschehen bei Banken vollzieht",
+      "D": "Wenn das Marktgeschehen vom Staat gelenkt wird"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Wann liegt stets ein unvollkommener Markt vor?",
+    "options": {
+      "A": "Wenn die Güter gleichartig sind",
+      "B": "Wenn keine Präferenzen vorhanden sind",
+      "C": "Wenn Präferenzen vorhanden sind",
+      "D": "Wenn Markttransparenz vorliegt"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Eine Hausfrau kauft am Markt meistens kurz vor Schluss ein, weil sie dann ihre Früchte billiger erhält?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Persönliche Präferenzen",
+      "C": "Räumliche Präferenzen",
+      "D": "Zeitliche Präferenzen"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Eine Hausfrau kauft vorwiegend bei einem Einzelhändler ein, mit dem sie befreundet ist?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Persönliche Präferenzen",
+      "C": "Räumliche Präferenzen",
+      "D": "Markttransparenz"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Anbieter und Nachfrager sind über die Verkaufs- und Kaufbedingungen vollständig informiert?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Zeitliche Präferenzen",
+      "C": "Räumliche Präferenzen",
+      "D": "Markttransparenz"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Der einzige Bäcker am Ort verkauft ein Brötchen um drei Cent teurer als der zwölf Kilometer weiter entfernte Bäcker?",
+    "options": {
+      "A": "Persönliche Präferenzen",
+      "B": "Räumliche Präferenzen",
+      "C": "Zeitliche Präferenzen",
+      "D": "Markttransparenz"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Eine bestimmte Pralinensorte wird wegen der ansprechenden Verpackung bevorzugt gekauft?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Persönliche Präferenzen",
+      "C": "Räumliche Präferenzen",
+      "D": "Zeitliche Präferenzen"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Ein Bahnhofskiosk in einem Hauptbahnhof einer Großstadt hat Tag und Nacht geöffnet?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Räumliche Präferenzen",
+      "C": "Zeitliche Präferenzen",
+      "D": "Markttransparenz"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Ein Unternehmer verkauft seine Erzeugnisse im Ausland billiger als im Inland?",
+    "options": {
+      "A": "Persönliche Präferenzen",
+      "B": "Räumliche Präferenzen",
+      "C": "Zeitliche Präferenzen",
+      "D": "Markttransparenz"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Ein Unternehmer bezieht aus traditionell freundschaftlichen Gründen seine Rohstoffe jahrzehntelang vom gleichen Lieferer?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Persönliche Präferenzen",
+      "C": "Räumliche Präferenzen",
+      "D": "Zeitliche Präferenzen"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Ein Kunde kauft Zucker, wobei es ihm egal ist, von welchem Anbieter dieser stammt, da die Produkte für ihn gleich sind?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Persönliche Präferenzen",
+      "C": "Zeitliche Präferenzen",
+      "D": "Markttransparenz"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Um welchen Marktvorgang handelt es sich: Ein junger Mann nutzt die Gelegenheit, in einem bestimmten Laden zu kaufen, weil er dort von einer Verkäuferin bedient wird, die ihm gefällt?",
+    "options": {
+      "A": "Homogenität der Güter",
+      "B": "Persönliche Präferenzen",
+      "C": "Räumliche Präferenzen",
+      "D": "Markttransparenz"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was kennzeichnet den Gleichgewichtspreis auf einem vollkommenen Markt?",
+    "options": {
+      "A": "Er wird allein von den stärksten Anbietern diktiert",
+      "B": "Bei diesem Preis ist das Angebot deutlich größer als die Nachfrage",
+      "C": "Er sorgt für den maximal möglichen Absatz, da Angebot und Nachfrage gleich groß sind",
+      "D": "Er pendelt sich ein, wenn der Staat direkt in den Marktpreis eingreift"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Aussage trifft auf einen unvollkommenen Markt zu?",
+    "options": {
+      "A": "Alle Kunden zahlen automatisch immer den gleichen Preis für ein Produkt",
+      "B": "Käufer und Verkäufer verfügen nicht immer über alle Informationen, wodurch Preisunterschiede entstehen",
+      "C": "Das gleiche Produkt muss an jedem Ort zwingend denselben Preis haben",
+      "D": "Alle Käufer kennen zu jeder Zeit sämtliche Preise und Angebote auf dem Markt"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welches Verhalten von Marktteilnehmern wird durch einen unvollkommenen Markt ermöglicht?",
+    "options": {
+      "A": "Kunden wechseln trotz Preisunterschieden nicht immer sofort zum günstigsten Anbieter",
+      "B": "Verbraucher reagieren stets in derselben Sekunde auf jede Preissenkung",
+      "C": "Anbieter verzichten vollständig auf zeitliche oder persönliche Preisaktionen",
+      "D": "Unternehmen passen ihre Preise ausschließlich an staatliche Vorgaben an"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Wie nennt man die Marktpreisfunktion, bei der niedrige Preise den Unternehmen signalisieren, dass sich der Einsatz von Produktionsfaktoren in diesem Markt nicht mehr lohnt?",
+    "options": {
+      "A": "Ausgleichsfunktion",
+      "B": "Anreizfunktion",
+      "C": "Allokationsfunktion (Lenkungsfunktion)",
+      "D": "Transparenzfunktion"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Funktion erfüllt der Marktpreis, wenn er die gegensätzlichen Interessen von Nachfragern (Nutzenmaximum) und Anbietern (Gewinnmaximum) ausgleicht?",
+    "options": {
+      "A": "Ausgleichsfunktion",
+      "B": "Anreizfunktion",
+      "C": "Allokationsfunktion",
+      "D": "Homogenitätsfunktion"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was beschreibt die Anreizfunktion des Marktpreises?",
+    "options": {
+      "A": "Höhere Preise veranlassen Konsumenten dazu, mehr Kredite aufzunehmen",
+      "B": "Steigende Preise bieten Anbietern einen Anreiz, die Produktion zu erhöhen, um höhere Gewinne zu erzielen",
+      "C": "Sinkende Preise spornen Unternehmen an, zusätzliche Arbeiter einzustellen",
+      "D": "Der Preis motiviert den Staat, den Marktzugang vollständig zu schließen"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welche Marktform liegt vor, wenn sich in einer Matrix 'wenige Anbieter' und 'viele Nachfrager' gegenüberstehen?",
+    "options": {
+      "A": "Angebotsmonopol",
+      "B": "Nachfrageoligopol",
+      "C": "Angebotsoligopol",
+      "D": "Polypol"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Situation beschreibt einen klassischen Verkäufermarkt?",
+    "options": {
+      "A": "Die Nachfrage nach Personalcomputern ist größer als das Angebot",
+      "B": "Das Angebot an Personalcomputern übersteigt die Nachfrage deutlich",
+      "C": "In der Branche herrscht ein extrem harter und aggressiver Preiswettbewerb",
+      "D": "Einem großen Angebot steht eine relativ geringe Nachfrage gegenüber"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bei welchem der folgenden Marktszenarien handelt es sich um einen Käufermarkt?",
+    "options": {
+      "A": "Zur Abwehr eines biologischen Supervirus wird dringend eine bestimmte Software benötigt",
+      "B": "In einer Großstadt werden dringend Baugrundstücke in guter Lage gesucht",
+      "C": "Auf dem Gebraucht-PC-Markt gibt es viel zu viele Anbieter und gebrauchte PCs",
+      "D": "Die Nachfrage nach Rohstoffen übersteigt die Produktionskapazitäten der Anbieter bei weitem"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Bedingung muss für das Vorliegen eines vollkommenen Marktes erfüllt sein?",
+    "options": {
+      "A": "Es herrscht eine hohe Heterogenität der angebotenen Güter",
+      "B": "Die Marktteilnehmer weisen starke persönliche und räumliche Präferenzen auf",
+      "C": "Markttransparenz, sodass alle Marktteilnehmer den vollen Überblick über Anbieter und Preise haben",
+      "D": "Der Marktzugang ist für neue Anbieter gesetzlich stark eingeschränkt"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Was versteht man unter der Bedingung der 'Güterhomogenität' auf einem vollkommenen Markt?",
+    "options": {
+      "A": "Die Güter werden in möglichst vielen unterschiedlichen Varianten und Größen angeboten",
+      "B": "Es werden ausschließlich gleichartige und völlig austauschbare Güter angeboten",
+      "C": "Die Produkte unterscheiden sich stark in ihrer Qualität und Verpackung",
+      "D": "Die Güter sind knapp und werden nur an ausgewählte Kunden verteilt"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welche Bedingung des vollkommenen Marktes ist verletzt, wenn ein Verbraucher beim Kauf ausschließlich auf eine bestimmte Marke achtet oder bei einem befreundeten Händler kauft?",
+    "options": {
+      "A": "Vollkommene Konkurrenz",
+      "B": "Anpassungsfähigkeit",
+      "C": "Güterhomogenität",
+      "D": "Präferenzlosigkeit"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Welche Aussage zur Preisbildung auf dem vollkommenen Markt ist sachlich richtig?",
+    "options": {
+      "A": "Der Marktpreis wird ausschließlich und unabhängig von den Anbietern durch die Nachfrager bestimmt",
+      "B": "Der Gleichgewichtspreis ist der Preis, bei dem die angebotene Menge gleich der nachgefragten Menge ist",
+      "C": "Liegt der Marktpreis oberhalb des Gleichgewichtspreises, spricht man von einem Nachfrageüberhang",
+      "D": "Ein Angebotsüberhang führt automatisch dazu, dass die am Markt umgesetzte Menge ein Maximum erreicht"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was passiert auf einem vollkommenen Markt, wenn der aktuelle Preis unterhalb des Gleichgewichtspreises liegt?",
+    "options": {
+      "A": "Es entsteht ein Angebotsüberhang",
+      "B": "Es entsteht ein Nachfrageüberhang",
+      "C": "Die angebotene Menge übersteigt die Nachfrage",
+      "D": "Der Preis bleibt dauerhaft stabil und sinkt nicht weiter"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Wie verhält sich die angebotene Menge im Normalfall in Abhängigkeit vom Marktpreis?",
+    "options": {
+      "A": "Die angebotene Menge ist umso größer, je niedriger der Preis ist",
+      "B": "Die angebotene Menge ist umso größer, je höher der Preis ist",
+      "C": "Die angebotene Menge bleibt bei jedem Preisniveau absolut identisch",
+      "D": "Die angebotene Menge sinkt, wenn die Gewinnchancen für Unternehmen steigen"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Drei Chiphersteller bieten in einem vollkommenen Markt ihre Bausteine zu unterschiedlichen Preisen an. Es herrscht Preisdruck. Wer muss seine Preise senken, um nicht vom Markt verdrängt zu werden?",
+    "options": {
+      "A": "Nur der Anbieter, der bereits den niedrigsten Preis verlangt",
+      "B": "Alle Anbieter, deren Preise oberhalb des am Markt resultierenden Gleichgewichtspreises liegen",
+      "C": "Keiner, da auf einem vollkommenen Markt dauerhaft unterschiedliche Preise nebeneinander existieren können",
+      "D": "Ausschließlich staatliche Unternehmen, die Subventionen erhalten"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welche der folgenden Ursachen führt im Marktdiagramm zu einer Rechtsverschiebung der Nachfragekurve bei einem normalen Gebrauchsgut?",
+    "options": {
+      "A": "Die Einkommen der Nachfrager steigen, beispielsweise durch Tariflohnerhöhungen",
+      "B": "Der Preis des nachgefragten Gutes selbst sinkt",
+      "C": "Verbraucher mindern ihre Konsumbereitschaft aufgrund einer unsicheren Konjunkturlage",
+      "D": "Der Preis eines komplementären Zusatzgutes steigt drastisch an"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Wenn der Preis eines Substitutionsgutes (Ersatzgutes) deutlich steigt, wie reagiert die Nachfragekurve des ursprünglichen Gutes?",
+    "options": {
+      "A": "Sie verschiebt sich nach links, da das Ersatzgut attraktiver wird",
+      "B": "Sie verschiebt sich nach rechts, da Konsumenten auf das ursprüngliche Gut ausweichen",
+      "C": "Sie bleibt völlig unverändert auf ihrer alten Position",
+      "D": "Sie flacht ab und verliert jede Steigung"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was führt im klassischen Preis-Mengen-Diagramm zu einer Verschiebung der gesamten Nachfragekurve, anstatt zu einer Bewegung auf der Kurve?",
+    "options": {
+      "A": "Ausschließlich die Veränderung des aktuellen Marktpreises dieses Gutes",
+      "B": "Die Veränderung externer Faktoren wie Einkommen, Vorlieben oder Preise von anderen Gütern",
+      "C": "Die Erhöhung der Produktionskapazitäten auf der Anbieterseite",
+      "D": "Das Erreichen des Prohibitivpreises durch den Monopolisten"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Wenn sich die Nachfrage nach einem Gut vermindert (Linkskurs) und das Angebot gleich bleibt, wie verändern sich Gleichgewichtspreis und Gleichgewichtsmenge?",
+    "options": {
+      "A": "Das Preisniveau sinkt und die abgesetzte Menge sinkt ebenfalls",
+      "B": "Das Preisniveau steigt und die abgesetzte Menge steigt",
+      "C": "Das Preisniveau sinkt, während die Menge unverändert bleibt",
+      "D": "Das Preisniveau steigt, während die Menge drastisch abnimmt"
+    },
+    "correct": "A"
+  }
+  ]
