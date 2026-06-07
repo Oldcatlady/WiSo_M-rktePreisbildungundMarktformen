@@ -1,16 +1,5 @@
 [
     {
-      "question": "Welche Aussage über die Gleichgewichtsmenge und den Gleichgewichtspreis in der Grafik Anlage 1 trifft zu?",
-      "options": {
-        "A": "Die Gleichgewichtsmenge beträgt 30 Stück, der Gleichgewichtspreis 30,00 €.",
-        "B": "Der Absatz zum Gleichgewichtspreis beträgt 2.500 Stück.",
-        "C": "Der Absatz zum Gleichgewichtspreis beträgt 50 Stück.",
-        "D": "Die Gleichgewichtsmenge beträgt 20 Stück, der Gleichgewichtspreis 50,00 €.",
-        "E": "Die Gleichgewichtsmenge beträgt 40 Stück, der Gleichgewichtspreis 30,00 €."
-      },
-      "correct": "E"
-    },
-    {
       "question": "Was erzielt ein Anbieter, der einen höheren Preis erzielt, als er kalkuliert hat?",
       "options": {
         "A": "Marktgleichgewicht",
@@ -119,17 +108,6 @@
         "E": "kein Einfluss der Mode"
       },
       "correct": "D"
-    },
-    {
-      "question": "Welche Aussage lässt sich aus der Grafik im dritten Quartal ableiten?",
-      "options": {
-        "A": "Die Nachfrage ist gesunken.",
-        "B": "Das Angebot wurde vergrößert.",
-        "C": "Komplementärgüter beeinflussten die Nachfrage.",
-        "D": "Kein Gleichgewichtspreis erreicht.",
-        "E": "Werbung wurde eingeschränkt."
-      },
-      "correct": "A"
     },
     {
       "question": "Welche Bedingung beschreibt das späte Einkaufen kurz vor Schluss?",
@@ -438,16 +416,6 @@
 },
 "correct": "A"
 } ,
-{
-"question": "Was bedeutet der Begriff 'Markt' laut Grafik?",
-"options": {
-"A": "Zusammentreffen von Angebot und Nachfrage",
-"B": "Nur Verkauf von Gütern",
-"C": "Staatliche Preisfestsetzung",
-"D": "Produktion von Gütern"
-},
-"correct": "A"
-},
 {
 "question": "Welche gehören zu den Faktormärkten?",
 "options": {
